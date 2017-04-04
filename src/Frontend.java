@@ -165,6 +165,7 @@ public class Frontend extends JFrame
      */
     public static void main( String[] args )
     {
-        new Frontend();
+        System.out.print( Difficulty.ADV.toString() );
+        // new Frontend();
     }
 }
